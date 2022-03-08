@@ -1,0 +1,44 @@
+/* Add a black background color to the top navigation bar */
+.topnav {
+    overflow: hidden;
+
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    display: block;
+    color:white ;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    
+    color: black;
+  }
+ 
+  
+  /* Style the search box inside the navigation bar */
+ 
+  .header-nav img{
+    width: 120px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right:30% ;
+  }
+  .header-nav{
+      display:flex;
+      background-color: cadetblue;
+      color:white ;
+      height:80px;
+     
+  }
+  .cart-icon{
+    margin-top:15px ;
+    margin-left:10px ;
+  }
+  
